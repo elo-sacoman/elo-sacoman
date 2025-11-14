@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**elo-sacoman/elo-sacoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Eloisa
 
-Here are some ideas to get you started:
+## 🌍 Sobre mim
+- 💻 Estudante do curso tecnivo de desenvolvimento de sistemas   
+- 🛠️ Gostaria de contribuir em projetos open source (traduções, documentação e código)  
+- 🌱 Sempre aprendendo novas tecnologias e compartilhando conhecimento  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Linguagens: JavaScript, Python  
+- Ferramentas: Git, GitHub Actions, Vs code, google colab  
+
+## 📂 Projetos 
+- [Projeto X](link do projeto GitHub) – Correções de bugs e melhorias na documentação  
+- [Projeto Y](link do projeto GitHub) – Implementação de novas funcionalidades em API REST  
+
+## 🤝 Como colaborar comigo
+- Abra uma issue nos meus repositórios  
+- Sugira melhorias via pull request  
+- Entre em contato para projetos colaborativos  
+
+## 📫 Contato
+- GitHub: [github.com/joaopereira](link do seu GitHub)  
+
+---
+✨ Este README foi pensado para a **comunidade open source**, destacando colaboração e contribuições.
+
